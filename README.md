@@ -2,10 +2,13 @@ NLP Assignments Repository
 Welcome to the NLP Assignments Repository! This repository contains a collection of Jupyter notebooks that demonstrate various Natural Language Processing (NLP) techniques and models. Each assignment focuses on different aspects of NLP, from text preprocessing and feature extraction to advanced deep learning models for text classification and language generation.
 
 
-Introduction
+Introduction:
+
 Natural Language Processing (NLP) is a field of artificial intelligence that focuses on the interaction between computers and humans through natural language. This repository provides practical examples and assignments to help you understand and apply NLP techniques using Python and popular libraries such as NLTK, Gensim, Keras, and others.
 
-Assignments Overview
+Assignments Overview:
+
+
 Assignment 1: Text Extraction and Preprocessing
 Description: This assignment focuses on extracting text from web pages, cleaning and preprocessing the text, and performing basic NLP tasks such as tokenization, lemmatization, and stop word removal.
 
